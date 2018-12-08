@@ -5,4 +5,4 @@ It uses A* pathing algorithm to find the quickest way around the campus based on
 
 Currently Known bugs (which I dont have intent on fixing):
 1.Sometimes you cant selcet a new staring location
-2.sometimes buildings too doors will be locked off if used already
+2.sometimes buildings to doors will be locked off if used already
